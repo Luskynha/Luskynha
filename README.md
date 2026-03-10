@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=Lucas.exe;Cybersecurity+Mode+Activated;Accessing+Mainframe...;Welcome+to+the+System" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
-</p>
-
 ---
 
 ```bash
