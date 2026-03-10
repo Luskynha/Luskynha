@@ -1,8 +1,7 @@
 <!-- MATRIX HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="800">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="800">
 </p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Lucas.exe;Initializing+System...;Accessing+Secure+Repository..." />
 </h1>
