@@ -1,31 +1,23 @@
-```bash
-████████╗██████╗  █████╗  ██████╗███████╗    ███████╗██╗   ██╗███████╗
-╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██╔════╝    ██╔════╝╚██╗ ██╔╝██╔════╝
-   ██║   ██████╔╝███████║██║     █████╗      █████╗   ╚████╔╝ █████╗  
-   ██║   ██╔══██╗██╔══██║██║     ██╔══╝      ██╔══╝    ╚██╔╝  ██╔══╝  
-   ██║   ██║  ██║██║  ██║╚██████╗███████╗    ███████╗   ██║   ███████╗
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚══════╝    ╚══════╝   ╚═╝   ╚══════╝
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+exploit...;Brute+forcing+credentials...;Injecting+payload...;Access+Granted.;Welcome+Lucas.exe" />
+</h1>
 
-────────────────────────────────────────────────────────────
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=120&section=header"/>
+</p>
 
-> initializing exploit...
-> target: secured profile repository
-> brute forcing credentials...
+<pre style="color:#00FF41; background-color:#000000; padding:20px; border-radius:10px;">
+
 > attempting login: lucas.exe
 > password: ********
 > access denied.
 > retrying with elevated privileges...
-> injecting payload...
 > bypassing authentication...
-> decrypting user identity...
+> decrypting identity...
 
-██████████████████████████████████████████ 100%
+████████████████████████████████ 100%
 
 >>> ACCESS GRANTED
-
-────────────────────────────────────────────────────────────
-
-> user loaded successfully.
 
 $ whoami
 Lucas.exe
@@ -34,39 +26,24 @@ $ echo $STATUS
 Cybersecurity Student
 
 $ cat mission.txt
-- Dominar Linux
-- Especializar em Cybersecurity
-- Evoluir em Pentest
-- Jogador de CTF
-- Mentalidade ofensiva & defensiva
-
-────────────────────────────────────────────────────────────
-
-┌──[ SYSTEM CORE ]──────────────────────────────────────────
-
-Kernel: Discipline v1.0
-Firewall: Determination Enabled
-Encryption: Continuous Learning
-Process Running: Self Improvement
-
-────────────────────────────────────────────────────────────
-
-┌──[ SKILL TREE ]───────────────────────────────────────────
-
-[██████████░░░░░░░░░░] Linux
-[████████░░░░░░░░░░░░] Networking
-[██████░░░░░░░░░░░░░░] Python
-[████░░░░░░░░░░░░░░░░] Penetration Testing
-[████████░░░░░░░░░░░░] Cyber Fundamentals
-
-────────────────────────────────────────────────────────────
-
-> finalizing session...
-> leaving trace: false
-> ghost mode: enabled
+- Linux
+- Cybersecurity
+- Pentest
+- CTF Player
+- Continuous Evolution
 
 echo "Lucas_NotFound"
 
-Connection closed.
-System remains watching...
-```
+</pre>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luskynha&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luskynha&theme=chartreuse-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=120&section=footer"/>
+</p>
