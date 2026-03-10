@@ -1,16 +1,18 @@
-<!-- MATRIX HEADER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="800">
-</p>
+<!-- MATRIX SYSTEM BOOT -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Lucas.exe;Initializing+System...;Accessing+Secure+Repository..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Booting+Lucas.exe...;Accessing+Secure+Repository...;Bypassing+Firewall...;Access+Granted." />
 </h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001a00&height=180&section=header&text=SYSTEM%20ONLINE&fontColor=00ff41&fontSize=40&animation=fadeIn"/>
+</p>
 
 ---
 
 ```bash
 > initializing exploit...
-> target: secured github profile
+> target: github.com/Luskynha
 > brute forcing credentials...
 
 > attempting login: lucas.exe
@@ -29,7 +31,7 @@
 $ whoami
 Lucas.exe
 
-$ echo $STATUS
+$ echo $ROLE
 Cybersecurity Student
 
 $ cat mission.txt
@@ -37,6 +39,7 @@ $ cat mission.txt
 - Cybersecurity
 - Pentest
 - CTF Player
+- Red Team Mindset
 - Continuous Evolution
 
 $ echo "Lucas_NotFound"
@@ -44,22 +47,30 @@ $ echo "Lucas_NotFound"
 
 ---
 
-<h2 align="center">⚡ SYSTEM STATUS ⚡</h2>
+<h2 align="center">⚡ TECH STACK ⚡</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Luskynha&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+<h2 align="center">📊 SYSTEM METRICS 📊</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luskynha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Luskynha&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Luskynha&theme=chartreuse-dark&hide_border=true&background=000000" />
 </p>
 
 ---
 
 <h3 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=System+Online;Cybersecurity+Mode+Activated;No+System+Is+Safe." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=No+System+Is+Safe.;Keep+Learning.;Stay+Anonymous.;Think+Like+An+Attacker." />
 </h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,100:000000&height=120&section=footer"/>
 </p>
