@@ -52,12 +52,12 @@ Arch Linux x86_64 Hardened
 ## 🧠 SKILLS IN PROGRESS
 
 ```diff
-+ Linux Fundamentals
-+ Networking Basics
-+ Log Analysis
-+ Incident Response
-+ CTF Practice
-+ System Hardening
++ Fundamentos de Linux
++ Noções básicas de redes
++ Análise de logs
++ Resposta a incidentes
++ Prática de CTF
++ Reforço da segurança do sistema
 ```
 
 ---
@@ -65,10 +65,10 @@ Arch Linux x86_64 Hardened
 ## 🚀 CURRENT MISSION
 
 ```css
-Learning every day.
-Building strong fundamentals.
-Turning knowledge into defense.
-Becoming a Blue Team Specialist.
+Aprendendo todos os dias.
+Construindo fundamentos sólidos.
+Transformando conhecimento em defesa.
+Tornando-se um Especialista de Blue Team.
 ```
 
 ---
