@@ -1,93 +1,108 @@
-# ╔══════════════════════════════════════════════════════════╗
-# ║        LUCAS.EXE  //  ARCH LINUX - BLUE TEAM SOC        ║
-# ╚══════════════════════════════════════════════════════════╝
+<!-- ======================= HEADER ANIMADO ======================= -->
 
-[BOOT] Arch Linux 6.x-zen initializing...
-[ OK ] Kernel loaded
-[ OK ] /home mounted
-[ OK ] Network interfaces up
-[ OK ] UFW firewall enabled
-[ OK ] Fail2Ban active
-[ OK ] Suricata IDS online
-[ OK ] Auditd logging
-[READY] Secure environment operational.
+<div align="center">
 
-──────────────────────────────────────────────────────────────
+<svg width="100%" height="120">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-size="40" fill="#1793d1" font-family="monospace">
+    LUCAS.EXE
+    <animate attributeName="opacity" values="0;1;0;1" dur="2s" repeatCount="indefinite"/>
+  </text>
+</svg>
 
+</div>
+
+<!-- ======================= BOOT ANIMATION ======================= -->
+
+```diff
++ [BOOT] Initializing Arch Linux...
++ [OK] Kernel Loaded
++ [OK] Blue Team Services Online
++ [OK] Suricata IDS Active
++ [OK] UFW Firewall Enabled
+```
+
+---
+
+# 🐧 ARCH LINUX x 🛡️ BLUE TEAM
+
+```bash
 $ whoami
 lucas
 
-$ hostnamectl
-Operating System: Arch Linux
-Role: Blue Team Operator
-Status: Monitoring Threat Landscape
+$ role
+Blue Team Operator
 
-──────────────────────────────────────────────────────────────
-                 █████  SOC DASHBOARD  █████
-──────────────────────────────────────────────────────────────
+$ system
+Arch Linux (Hardened)
+```
 
-[NETWORK STATUS]        ONLINE
-[FIREWALL STATUS]       ACTIVE
-[IDS STATUS]            MONITORING
-[FAILED LOGIN ATTEMPTS] 3
-[BLOCKED IPS]           12
-[OPEN INCIDENTS]        1
+---
 
-──────────────────────────────────────────────────────────────
-                 🚨 THREAT DETECTED 🚨
-──────────────────────────────────────────────────────────────
+# 🚨 SIMULAÇÃO DE ATAQUE
 
-[ALERT] Suspicious activity detected
-[INFO ] Source IP: 185.224.128.45
-[INFO ] Behavior: Port scanning / brute force attempt
-[INFO ] Target: SSH (22)
+```diff
+- [RED TEAM] Scanning ports...
+- [RED TEAM] Attempting brute force on SSH...
+- [RED TEAM] Injecting malicious payload...
+```
 
-[ANALYSIS] Pattern matches known reconnaissance behavior
-[ACTION  ] Blocking IP...
-[ACTION  ] Updating firewall rules...
-[ACTION  ] Logging incident...
+---
 
-[RESULT  ] Threat Neutralized ✔
+# 🛡️ BLUE TEAM RESPONSE
 
-──────────────────────────────────────────────────────────────
+```diff
++ [BLUE TEAM] Detecting anomaly...
++ [BLUE TEAM] Blocking suspicious IP...
++ [BLUE TEAM] Updating firewall rules...
++ [BLUE TEAM] Incident contained.
+```
 
-$ tail -f /var/log/security.log
+---
 
-[SECURE] Firewall active
-[SECURE] SSH hardened
-[SECURE] Root login disabled
-[ALERT ] Port scan blocked
-[OK     ] System integrity verified
+# 📡 SOC DASHBOARD
 
-──────────────────────────────────────────────────────────────
+```yaml
+Firewall: ACTIVE
+IDS: MONITORING
+Failed Logins: 5
+Blocked IPs: 23
+System Integrity: VERIFIED
+```
 
-$ echo $SKILLS
+---
 
+# 🧠 SKILLS
+
+```css
 Threat Detection
 Incident Response
-Log Correlation
-Network Monitoring
 Linux Hardening
-CTF Practice
+Log Analysis
+CTF Player
+Arch User btw.
+```
 
-──────────────────────────────────────────────────────────────
+---
 
-$ echo $MINDSET
+<!-- ======================= ANIMAÇÃO FINAL ======================= -->
 
-Monitor.
-Detect.
-Respond.
-Harden.
-Stay Ahead.
+<div align="center">
 
-──────────────────────────────────────────────────────────────
+<svg width="100%" height="100">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-size="28" fill="#00ffcc" font-family="monospace">
+    ACCESS DENIED
+    <animate attributeName="fill" values="#00ffcc;#1793d1;#00ffcc" dur="2s" repeatCount="indefinite"/>
+  </text>
+</svg>
 
+</div>
+
+---
+
+```bash
 $ echo "Lucas_NotFound"
-
-[SESSION TERMINATED]
-[LOGS ENCRYPTED]
-[ARCH LINUX SECURED]
-
-# ════════════════════════════════════════════════════════════
-#                    I use Arch btw. 🐧
-# ════════════════════════════════════════════════════════════
+[ SESSION TERMINATED ]
+[ ARCH SECURED ]
+```
