@@ -11,7 +11,7 @@
 > bypassing firewall...
 > privilege escalation: SUCCESS
 > identity: Lucas_NotFound
-
+```
 whoami
 Lucas.exe
 
@@ -40,4 +40,3 @@ trace: disabled
 visibility: ghost_mode
 
 <p align="center"> 🟢 SYSTEM ONLINE 🟢 NEURAL LINK ESTABLISHED 🟢 TARGET: ELITE CYBER OPERATOR </p>
-```
