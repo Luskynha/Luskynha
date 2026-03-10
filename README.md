@@ -57,15 +57,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=120&section=header&text=SYSTEM%20METRICS&fontColor=39ff14&fontSize=30"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luskynha&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Luskynha&theme=chartreuse-dark&hide_border=true&background=000000" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Terminating+Session...;Erasing+Logs...;Disconnecting+From+Host...;Lucas_NotFound." />
 </p>
 
 ---
