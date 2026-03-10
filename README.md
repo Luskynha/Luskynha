@@ -1,61 +1,105 @@
-<!-- LUCAS.EXE PROFILE -->
+# ==========================================================
+#            LUCAS.EXE // ARCH LINUX - BLUE TEAM
+# ==========================================================
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=200&section=header&text=LUCAS.EXE&fontColor=39ff14&fontSize=50&animation=fadeIn"/>
-</p>
+:: Booting Arch Linux...
+:: Loading kernel 6.x-zen...
+:: Mounting /home/lucas...
+:: Starting systemd...
+:: Applying sysctl hardening...
+:: Enabling firewall (ufw)...
+:: Activating fail2ban...
+:: Initializing Suricata IDS...
+:: Syncing threat intelligence feeds...
+:: System online.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=Booting+System...;Decrypting+Identity...;Escalating+Privileges...;Access+Granted." />
-</p>
+------------------------------------------------------------
 
----
+$ whoami
+lucas
 
-```diff
-+ initializing exploit...
-+ target: github.com/Luskynha
-+ brute forcing credentials...
+$ uname -a
+Arch Linux x86_64 GNU/Linux
 
-+ attempting login: lucas.exe
-- access denied.
+$ echo $ROLE
+Blue Team Operator | Cybersecurity Student
 
-+ retrying with elevated privileges...
-+ injecting payload...
-+ bypassing authentication...
-+ decrypting identity...
+$ echo $ENVIRONMENT
+Minimal
+Hardened
+Monitored
+Controlled
 
-+ ████████████████████████████████████ 100%
+------------------------------------------------------------
 
-+ >>> ACCESS GRANTED
+:: Synchronizing package databases...
+ core.db        100%
+ extra.db       100%
+ community.db   100%
 
-+ $ whoami
-+ Lucas.exe
+:: Installing defensive stack...
 
-+ $ echo $ROLE
-+ Cybersecurity Student
+ installing wireshark...
+ installing nmap...
+ installing tcpdump...
+ installing lynis...
+ installing suricata...
+ installing fail2ban...
+ installing auditd...
+ installing openssh...
 
-+ $ cat mission.txt
-+ - Linux
-+ - Cybersecurity
-+ - Pentest
-+ - CTF Player
-+ - Red Team Mindset
-+ - Continuous Evolution
+>>> Defensive Environment Ready
 
-+ $ echo "Lucas_NotFound"
-```
+------------------------------------------------------------
 
----
+$ systemctl status lucas.service
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001100,100:000000&height=120&section=header&text=TECH%20STACK&fontColor=39ff14&fontSize=30"/>
-</p>
+● lucas.service - Blue Team Monitoring Unit
+   Loaded: loaded (/etc/systemd/system/lucas.service)
+   Active: active (running)
+   Status: Analyzing logs...
+           Monitoring network traffic...
+           Blocking malicious IPs...
+           Hardening endpoints...
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode&theme=dark" />
-</p>
+------------------------------------------------------------
 
----
+$ cat /var/log/security.log
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Terminating+Session...;Erasing+Logs...;Disconnecting+From+Host...;Lucas_NotFound." />
-</p>
+[OK] Firewall active
+[OK] Intrusion detection enabled
+[OK] SSH root login disabled
+[OK] Ports monitored
+[OK] Logs centralized
+[OK] Threat feeds synced
+[OK] System integrity verified
+
+------------------------------------------------------------
+
+$ echo $SKILLS
+Threat Detection
+Log Analysis
+Incident Response
+Network Monitoring
+Linux Hardening
+CTF Practice
+
+------------------------------------------------------------
+
+$ echo $MINDSET
+Monitor.
+Detect.
+Respond.
+Harden.
+I use Arch btw.
+
+------------------------------------------------------------
+
+$ echo "Lucas_NotFound"
+
+:: Terminating session...
+:: Encrypting logs...
+:: Clearing traces...
+:: Arch Linux secured.
+
+# ==========================================================
