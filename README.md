@@ -1,7 +1,7 @@
 <!-- ================== BOOT ================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1793D1&center=true&vCenter=true&width=900&lines=Booting+Arch+Linux...;Initializing+Blue+Team+Modules...;Loading+Cybersecurity+Student+Profile...;Lucas.exe+Online." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1793D1&center=true&vCenter=true&width=900&lines=Booting+Arch+Linux...;Initializing+Security+Modules...;Loading+Blue+Team+Profile...;Lucas.exe+Initialized." />
 </p>
 
 <h2 align="center">
@@ -9,6 +9,27 @@
   |
   🛡️ <span style="color:#00BFFF;">Blue Team Operator</span>
 </h2>
+
+---
+
+<!-- ================== ABOUT ME ================== -->
+
+```bash
+$ whoami
+Lucas
+
+$ age
+18
+
+$ education
+Cybersecurity Student (Started Recently)
+
+$ focus
+Blue Team | Defensive Security | Threat Detection
+
+$ system
+Arch Linux x86_64 Hardened
+```
 
 ---
 
@@ -28,50 +49,26 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🧠 SKILLS IN PROGRESS
 
-```bash
-$ whoami
-Lucas
-
-$ age
-18
-
-$ status
-Cybersecurity Student
-
-$ university_status
-Started college recently
-
-$ focus
-Blue Team
-Defensive Security
-Linux Hardening
-CTFs
-Threat Analysis
+```diff
++ Linux Fundamentals
++ Networking Basics
++ Log Analysis
++ Incident Response
++ CTF Practice
++ System Hardening
 ```
 
 ---
 
-## 🧠 Objetivo
+## 🚀 CURRENT MISSION
 
-```diff
-+ Evoluir constantemente em Cybersecurity
-+ Dominar Linux em nível avançado
-+ Trabalhar com Defesa e Monitoramento
-+ Participar de CTFs e projetos práticos
-```
-
----
-
-## 💻 Sistema Atual
-
-```diff
-- Threat Level: HIGH
-+ Firewall: ACTIVE
-+ IDS: MONITORING
-+ SSH: HARDENED
-+ System Integrity: VERIFIED
+```css
+Learning every day.
+Building strong fundamentals.
+Turning knowledge into defense.
+Becoming a Blue Team Specialist.
 ```
 
 ---
@@ -84,4 +81,5 @@ Threat Analysis
 
 ```bash
 $ echo "Session Terminated"
+[ SOC STATUS: STABLE ]
 ```
