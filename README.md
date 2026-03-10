@@ -1,4 +1,7 @@
 <!-- BANNER HACKER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=900&lines=Wake+up,+Lucas...;The+Matrix+has+you.;Follow+the+white+rabbit.;Cybersecurity+Mode+Activated." />
+</p>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Lucas+Martins;Cybersecurity+Student;Future+Ethical+Hacker;System+Breached...+Just+Kidding+😈" />
 </h1>
