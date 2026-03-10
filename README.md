@@ -44,9 +44,8 @@ Arch Linux x86_64 Hardened
 <!-- ================== BLUE TEAM ================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=800&pause=1000color=00BFFF&center=true&vCenter=true&width=900&lines=Analyzing+Threat...;Deploying+Countermeasures...;Blocking+Suspicious+IP...;Threat+Neutralized." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1800&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Analyzing+Threat...;Deploying+Countermeasures...;Blocking+Suspicious+IP...;Threat+Neutralized." />
 </p>
-
 ---
 
 ## 🧠 SKILLS IN PROGRESS
