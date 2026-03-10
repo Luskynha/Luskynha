@@ -1,8 +1,5 @@
 <!-- BANNER HACKER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQKkT6fY7C/giphy.gif" width="100%" />
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=900&lines=Wake+up,+Lucas...;The+Matrix+has+you.;Follow+the+white+rabbit.;Cybersecurity+Mode+Activated." />
 </p>
 <h1 align="center">
