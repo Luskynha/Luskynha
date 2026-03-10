@@ -19,6 +19,7 @@
 > privilege escalation: in progress...
 > status: evolving ██████████░ 92%
 ```
+![matrix snake](https://raw.githubusercontent.com/Luskynha/Luskynha/output/github-contribution-grid-snake-matrix.svg)
 🕶️ Sobre Mim
 
 🎓 Graduando em Cibersegurança
@@ -30,7 +31,6 @@
 📊 Stats do Sistema
 <p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIOAQUI&show_icons=true&theme=chartreuse-dark&hide_border=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIOAQUI&layout=compact&theme=chartreuse-dark&hide_border=true"/> </p>
 
-![snake gif](https://raw.githubusercontent.com/Luskynha/Luskynha/output/github-contribution-grid-snake-dark.svg)
 
 ☠️ Filosofia
 
