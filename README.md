@@ -36,7 +36,7 @@ Arch Linux x86_64 Hardened
 <!-- ================== RED TEAM ================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2000&pause=3000&color=FF3131&center=true&vCenter=true&width=900&lines=Scanning+Ports...;Brute+Force+Attempt+Detected...;Privilege+Escalation+Attempt...;SYSTEM+STATUS:+CRITICAL." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2000&pause=2700&color=FF3131&center=true&vCenter=true&width=900&lines=Scanning+Ports...;Brute+Force+Attempt+Detected...;Privilege+Escalation+Attempt...;SYSTEM+STATUS:+CRITICAL." />
 </p>
 
 ---
@@ -44,7 +44,7 @@ Arch Linux x86_64 Hardened
 <!-- ================== BLUE TEAM ================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2000&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Analyzing+Threat...;Deploying+Countermeasures...;Blocking+Suspicious+IP...;Threat+Neutralized." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=2000&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Analyzing+Threat...;Deploying+Countermeasures...;Blocking+Suspicious+IP...;Threat+Neutralized." />
 </p>
 
 ---
