@@ -1,21 +1,29 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+exploit...;Brute+forcing+credentials...;Injecting+payload...;Access+Granted.;Welcome+Lucas.exe" />
-</h1>
-
+<!-- MATRIX HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=120&section=header"/>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="800">
 </p>
 
-<pre style="color:#00FF41; background-color:#000000; padding:20px; border-radius:10px;">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Lucas.exe;Initializing+System...;Accessing+Secure+Repository..." />
+</h1>
+
+---
+
+```bash
+> initializing exploit...
+> target: secured github profile
+> brute forcing credentials...
 
 > attempting login: lucas.exe
 > password: ********
 > access denied.
+
 > retrying with elevated privileges...
+> injecting payload...
 > bypassing authentication...
 > decrypting identity...
 
-████████████████████████████████ 100%
+████████████████████████████████████ 100%
 
 >>> ACCESS GRANTED
 
@@ -32,18 +40,27 @@ $ cat mission.txt
 - CTF Player
 - Continuous Evolution
 
-echo "Lucas_NotFound"
+$ echo "Lucas_NotFound"
+```
 
-</pre>
+---
+
+<h2 align="center">⚡ SYSTEM STATUS ⚡</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luskynha&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Luskynha&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luskynha&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Luskynha&theme=chartreuse-dark&hide_border=true" />
 </p>
 
+---
+
+<h3 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=System+Online;Cybersecurity+Mode+Activated;No+System+Is+Safe." />
+</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=footer"/>
 </p>
