@@ -1,42 +1,72 @@
-<!-- MATRIX BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=40&center=true&vCenter=true&width=1000&lines=Lucas.exe;Cybersecurity+Mode+Activated;Accessing+Mainframe...;Welcome+to+the+System" />
-</p>
-
----
-
 ```bash
-> booting Lucas.exe...
-> loading modules...
-> bypassing firewall...
-> privilege escalation: SUCCESS
-> identity: Lucas_NotFound
-```
-whoami
+████████╗██████╗  █████╗  ██████╗███████╗    ███████╗██╗   ██╗███████╗
+╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██╔════╝    ██╔════╝╚██╗ ██╔╝██╔════╝
+   ██║   ██████╔╝███████║██║     █████╗      █████╗   ╚████╔╝ █████╗  
+   ██║   ██╔══██╗██╔══██║██║     ██╔══╝      ██╔══╝    ╚██╔╝  ██╔══╝  
+   ██║   ██║  ██║██║  ██║╚██████╗███████╗    ███████╗   ██║   ███████╗
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚══════╝    ╚══════╝   ╚═╝   ╚══════╝
+
+────────────────────────────────────────────────────────────
+
+> initializing exploit...
+> target: secured profile repository
+> brute forcing credentials...
+> attempting login: lucas.exe
+> password: ********
+> access denied.
+> retrying with elevated privileges...
+> injecting payload...
+> bypassing authentication...
+> decrypting user identity...
+
+██████████████████████████████████████████ 100%
+
+>>> ACCESS GRANTED
+
+────────────────────────────────────────────────────────────
+
+> user loaded successfully.
+
+$ whoami
 Lucas.exe
 
-cat status.log
+$ echo $STATUS
 Cybersecurity Student
-Linux Explorer
-Future Ethical Hacker
-CTF Player
 
-[✓] Linux
-[✓] Networking
-[✓] Cybersecurity Fundamentals
-[✓] Ethical Hacking Concepts
-[✓] Bash
-[✓] Python
+$ cat mission.txt
+- Dominar Linux
+- Especializar em Cybersecurity
+- Evoluir em Pentest
+- Jogador de CTF
+- Mentalidade ofensiva & defensiva
 
-📊 SYSTEM ACTIVITY
-<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luskynha&show_icons=true&theme=chartreuse-dark&hide_border=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luskynha&layout=compact&theme=chartreuse-dark&hide_border=true"/> </p>
+────────────────────────────────────────────────────────────
 
-🐍 MATRIX SNAKE
-<p align="center"> <img src="https://raw.githubusercontent.com/Luskynha/Luskynha/output/github-contribution-grid-snake-matrix.svg" /> </p>
+┌──[ SYSTEM CORE ]──────────────────────────────────────────
 
-system.out.println("Lucas_NotFound");
-connection: encrypted
-trace: disabled
-visibility: ghost_mode
+Kernel: Discipline v1.0
+Firewall: Determination Enabled
+Encryption: Continuous Learning
+Process Running: Self Improvement
 
-<p align="center"> 🟢 SYSTEM ONLINE 🟢 NEURAL LINK ESTABLISHED 🟢 TARGET: ELITE CYBER OPERATOR </p>
+────────────────────────────────────────────────────────────
+
+┌──[ SKILL TREE ]───────────────────────────────────────────
+
+[██████████░░░░░░░░░░] Linux
+[████████░░░░░░░░░░░░] Networking
+[██████░░░░░░░░░░░░░░] Python
+[████░░░░░░░░░░░░░░░░] Penetration Testing
+[████████░░░░░░░░░░░░] Cyber Fundamentals
+
+────────────────────────────────────────────────────────────
+
+> finalizing session...
+> leaving trace: false
+> ghost mode: enabled
+
+echo "Lucas_NotFound"
+
+Connection closed.
+System remains watching...
+```
