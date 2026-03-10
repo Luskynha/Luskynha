@@ -75,7 +75,7 @@ Tornando-se um Especialista de Blue Team.
 <!-- ================== FINAL ================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Encrypting+Logs...;Encerrando+Seçao...;Arch+Linux+Seguro.;Lucas_NotFound." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Encrypting+Logs...;Encerrando+Secao...;Arch+Linux+Seguro.;Lucas_NotFound." />
 </p>
 
 ```bash
