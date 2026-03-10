@@ -1,7 +1,7 @@
 <!-- ================== BOOT ================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1793D1&center=true&vCenter=true&width=900&lines=Booting+Arch+Linux...;Iniciando+Modulos+Seguros...;Carregando+Blue+Team+Profile...;Lucas.exe+Iniciado." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1793D1&center=true&vCenter=true&width=900&lines=Booting+Arch+Linux...;Iniciando+Módulos+Seguros...;Carregando+Perfil+Blue+Team...;Lucas.exe+Iniciado." />
 </p>
 
 <h2 align="center">
