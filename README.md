@@ -1,105 +1,93 @@
-# ==========================================================
-#            LUCAS.EXE // ARCH LINUX - BLUE TEAM
-# ==========================================================
+# ╔══════════════════════════════════════════════════════════╗
+# ║        LUCAS.EXE  //  ARCH LINUX - BLUE TEAM SOC        ║
+# ╚══════════════════════════════════════════════════════════╝
 
-:: Booting Arch Linux...
-:: Loading kernel 6.x-zen...
-:: Mounting /home/lucas...
-:: Starting systemd...
-:: Applying sysctl hardening...
-:: Enabling firewall (ufw)...
-:: Activating fail2ban...
-:: Initializing Suricata IDS...
-:: Syncing threat intelligence feeds...
-:: System online.
+[BOOT] Arch Linux 6.x-zen initializing...
+[ OK ] Kernel loaded
+[ OK ] /home mounted
+[ OK ] Network interfaces up
+[ OK ] UFW firewall enabled
+[ OK ] Fail2Ban active
+[ OK ] Suricata IDS online
+[ OK ] Auditd logging
+[READY] Secure environment operational.
 
-------------------------------------------------------------
+──────────────────────────────────────────────────────────────
 
 $ whoami
 lucas
 
-$ uname -a
-Arch Linux x86_64 GNU/Linux
+$ hostnamectl
+Operating System: Arch Linux
+Role: Blue Team Operator
+Status: Monitoring Threat Landscape
 
-$ echo $ROLE
-Blue Team Operator | Cybersecurity Student
+──────────────────────────────────────────────────────────────
+                 █████  SOC DASHBOARD  █████
+──────────────────────────────────────────────────────────────
 
-$ echo $ENVIRONMENT
-Minimal
-Hardened
-Monitored
-Controlled
+[NETWORK STATUS]        ONLINE
+[FIREWALL STATUS]       ACTIVE
+[IDS STATUS]            MONITORING
+[FAILED LOGIN ATTEMPTS] 3
+[BLOCKED IPS]           12
+[OPEN INCIDENTS]        1
 
-------------------------------------------------------------
+──────────────────────────────────────────────────────────────
+                 🚨 THREAT DETECTED 🚨
+──────────────────────────────────────────────────────────────
 
-:: Synchronizing package databases...
- core.db        100%
- extra.db       100%
- community.db   100%
+[ALERT] Suspicious activity detected
+[INFO ] Source IP: 185.224.128.45
+[INFO ] Behavior: Port scanning / brute force attempt
+[INFO ] Target: SSH (22)
 
-:: Installing defensive stack...
+[ANALYSIS] Pattern matches known reconnaissance behavior
+[ACTION  ] Blocking IP...
+[ACTION  ] Updating firewall rules...
+[ACTION  ] Logging incident...
 
- installing wireshark...
- installing nmap...
- installing tcpdump...
- installing lynis...
- installing suricata...
- installing fail2ban...
- installing auditd...
- installing openssh...
+[RESULT  ] Threat Neutralized ✔
 
->>> Defensive Environment Ready
+──────────────────────────────────────────────────────────────
 
-------------------------------------------------------------
+$ tail -f /var/log/security.log
 
-$ systemctl status lucas.service
+[SECURE] Firewall active
+[SECURE] SSH hardened
+[SECURE] Root login disabled
+[ALERT ] Port scan blocked
+[OK     ] System integrity verified
 
-● lucas.service - Blue Team Monitoring Unit
-   Loaded: loaded (/etc/systemd/system/lucas.service)
-   Active: active (running)
-   Status: Analyzing logs...
-           Monitoring network traffic...
-           Blocking malicious IPs...
-           Hardening endpoints...
-
-------------------------------------------------------------
-
-$ cat /var/log/security.log
-
-[OK] Firewall active
-[OK] Intrusion detection enabled
-[OK] SSH root login disabled
-[OK] Ports monitored
-[OK] Logs centralized
-[OK] Threat feeds synced
-[OK] System integrity verified
-
-------------------------------------------------------------
+──────────────────────────────────────────────────────────────
 
 $ echo $SKILLS
+
 Threat Detection
-Log Analysis
 Incident Response
+Log Correlation
 Network Monitoring
 Linux Hardening
 CTF Practice
 
-------------------------------------------------------------
+──────────────────────────────────────────────────────────────
 
 $ echo $MINDSET
+
 Monitor.
 Detect.
 Respond.
 Harden.
-I use Arch btw.
+Stay Ahead.
 
-------------------------------------------------------------
+──────────────────────────────────────────────────────────────
 
 $ echo "Lucas_NotFound"
 
-:: Terminating session...
-:: Encrypting logs...
-:: Clearing traces...
-:: Arch Linux secured.
+[SESSION TERMINATED]
+[LOGS ENCRYPTED]
+[ARCH LINUX SECURED]
 
-# ==========================================================
+# ════════════════════════════════════════════════════════════
+#                    I use Arch btw. 🐧
+# ════════════════════════════════════════════════════════════
