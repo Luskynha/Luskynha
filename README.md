@@ -59,16 +59,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Terminating+Session...;Erasing+Logs...;Disconnecting+From+Host...;Lucas_NotFound." />
 </p>
-
----
-
-<p align="center">
-No System Is Safe.<br>
-Think Like An Attacker.<br>
-Stay Anonymous.<br>
-Keep Learning.
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001100,100:000000&height=150&section=footer"/>
-</p>
