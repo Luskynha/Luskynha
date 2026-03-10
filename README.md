@@ -1,4 +1,4 @@
-<!-- LUCAS.EXE MATRIX PROFILE -->
+<!-- LUCAS.EXE PROFILE -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=200&section=header&text=LUCAS.EXE&fontColor=39ff14&fontSize=50&animation=fadeIn"/>
@@ -10,44 +10,40 @@
 
 ---
 
-<pre>
-<font color="#39ff14">
-> initializing exploit...
-> target: github.com/Luskynha
-> brute forcing credentials...
+```diff
++ initializing exploit...
++ target: github.com/Luskynha
++ brute forcing credentials...
 
-> attempting login: lucas.exe
-> password: ********
-</font><font color="#ff0033">
-> access denied.
-</font><font color="#39ff14">
++ attempting login: lucas.exe
+- access denied.
 
-> retrying with elevated privileges...
-> injecting payload...
-> bypassing authentication...
-> decrypting identity...
++ retrying with elevated privileges...
++ injecting payload...
++ bypassing authentication...
++ decrypting identity...
 
-████████████████████████████████████ 100%
++ ████████████████████████████████████ 100%
 
->>>> ACCESS GRANTED
++ >>> ACCESS GRANTED
 
-$ whoami
-Lucas.exe
++ $ whoami
++ Lucas.exe
 
-$ echo $ROLE
-Cybersecurity Student
++ $ echo $ROLE
++ Cybersecurity Student
 
-$ cat mission.txt
-- Linux
-- Cybersecurity
-- Pentest
-- CTF Player
-- Red Team Mindset
-- Continuous Evolution
++ $ cat mission.txt
++ - Linux
++ - Cybersecurity
++ - Pentest
++ - CTF Player
++ - Red Team Mindset
++ - Continuous Evolution
 
-$ echo "Lucas_NotFound"
-</font>
-</pre>
++ $ echo "Lucas_NotFound"
+```
+
 ---
 
 <p align="center">
@@ -74,7 +70,7 @@ $ echo "Lucas_NotFound"
 
 ---
 
-<p align="center" style="color:#39ff14; font-family:monospace; text-shadow:0 0 6px #39ff14;">
+<p align="center">
 No System Is Safe.<br>
 Think Like An Attacker.<br>
 Stay Anonymous.<br>
