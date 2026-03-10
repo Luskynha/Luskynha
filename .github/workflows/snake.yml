@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Matrix Snake
 
 on:
   schedule:
@@ -12,7 +12,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Luskynha
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-dark
+            dist/github-contribution-grid-snake-matrix.svg?color_snake=00ff00&color_dots=003300,005500,007700,00aa00,00ff00
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
