@@ -10,59 +10,44 @@
 
 ---
 
-<div align="center" style="font-family:monospace; font-size:16px; line-height:1.6; color:#39ff14; text-shadow:0 0 6px #39ff14;">
+<pre>
+<font color="#39ff14">
+> initializing exploit...
+> target: github.com/Luskynha
+> brute forcing credentials...
 
-&gt; initializing exploit...  
-&gt; target: github.com/Luskynha  
-&gt; brute forcing credentials...  
+> attempting login: lucas.exe
+> password: ********
+</font><font color="#ff0033">
+> access denied.
+</font><font color="#39ff14">
 
-<br>
+> retrying with elevated privileges...
+> injecting payload...
+> bypassing authentication...
+> decrypting identity...
 
-&gt; attempting login: <b>lucas.exe</b>  
-&gt; password: ********  
-<span style="color:#ff0033; text-shadow:0 0 6px #ff0033;">&gt; access denied.</span>  
+████████████████████████████████████ 100%
 
-<br>
+>>>> ACCESS GRANTED
 
-&gt; retrying with elevated privileges...  
-&gt; injecting payload...  
-&gt; bypassing authentication...  
-&gt; decrypting identity...  
+$ whoami
+Lucas.exe
 
-<br>
+$ echo $ROLE
+Cybersecurity Student
 
-████████████████████████████████████ 100%  
-
-<br>
-
-<b>>>> ACCESS GRANTED</b>  
-
-<br><br>
-
-$ whoami  
-Lucas.exe  
-
-<br>
-
-$ echo $ROLE  
-Cybersecurity Student  
-
-<br>
-
-$ cat mission.txt  
-- Linux  
-- Cybersecurity  
-- Pentest  
-- CTF Player  
-- Red Team Mindset  
-- Continuous Evolution  
-
-<br>
+$ cat mission.txt
+- Linux
+- Cybersecurity
+- Pentest
+- CTF Player
+- Red Team Mindset
+- Continuous Evolution
 
 $ echo "Lucas_NotFound"
-
-</div>
-
+</font>
+</pre>
 ---
 
 <p align="center">
