@@ -1,7 +1,7 @@
 <!-- ================== BOOT ================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1793D1&center=true&vCenter=true&width=900&lines=Booting+Arch+Linux...;Initializing+Security+Modules...;Loading+Blue+Team+Profile...;Lucas.exe+Initialized." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1793D1&center=true&vCenter=true&width=900&lines=Booting+Arch+Linux...;Initializing+Security+Modules...;Carregando+Blue+Team+Profile...;Lucas.exe+Inicializado." />
 </p>
 
 <h2 align="center">
@@ -76,7 +76,7 @@ Tornando-se um Especialista de Blue Team.
 <!-- ================== FINAL ================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Encrypting+Logs...;Closing+Session...;Arch+Linux+Secured.;Lucas_NotFound." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Encrypting+Logs...;Fechando+Seção...;Arch+Linux+Seguro.;Lucas_NotFound." />
 </p>
 
 ```bash
