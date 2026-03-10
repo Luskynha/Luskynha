@@ -1,108 +1,82 @@
-<!-- ======================= HEADER ANIMADO ======================= -->
+<!-- ========================= HEADER ========================= -->
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2000&pause=800&color=1793D1&center=true&vCenter=true&width=900&lines=Booting+Arch+Linux...;Loading+Blue+Team+Modules...;Starting+SOC+Monitoring...;Threat+Detection+Engine+Online.;Lucas.exe+Initialized." />
+</p>
 
-<svg width="100%" height="120">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-size="40" fill="#1793d1" font-family="monospace">
-    LUCAS.EXE
-    <animate attributeName="opacity" values="0;1;0;1" dur="2s" repeatCount="indefinite"/>
-  </text>
-</svg>
+<h1 align="center">
+  <span style="color:#1793D1;">🐧 ARCH LINUX</span> 
+  <span style="color:#39FF14;">|</span> 
+  <span style="color:#00BFFF;">🛡️ BLUE TEAM OPERATOR</span>
+</h1>
 
-</div>
+---
 
-<!-- ======================= BOOT ANIMATION ======================= -->
+<!-- ========================= RED TEAM ATTACK ========================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=600&color=FF3131&center=true&vCenter=true&width=900&lines=[RED+TEAM]+Scanning+Ports...;Brute+Force+Attempt+Detected...;Injecting+Malicious+Payload...;Privilege+Escalation+Attempt..." />
+</p>
+
+---
+
+<!-- ========================= BLUE TEAM RESPONSE ========================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1800&pause=600&color=00BFFF&center=true&vCenter=true&width=900&lines=[BLUE+TEAM]+Anomaly+Detected.;Blocking+Suspicious+IP...;Updating+Firewall+Rules...;Threat+Neutralized.;System+Secured." />
+</p>
+
+---
+
+## 🧠 SOC DASHBOARD
 
 ```diff
-+ [BOOT] Initializing Arch Linux...
-+ [OK] Kernel Loaded
-+ [OK] Blue Team Services Online
-+ [OK] Suricata IDS Active
-+ [OK] UFW Firewall Enabled
++ Firewall: ACTIVE
++ IDS (Suricata): MONITORING
++ Fail2Ban: ENABLED
++ SSH: HARDENED
++ Root Login: DISABLED
 ```
 
 ---
 
-# 🐧 ARCH LINUX x 🛡️ BLUE TEAM
+## 💻 SYSTEM INFO
 
 ```bash
 $ whoami
 lucas
 
+$ uname -a
+Arch Linux x86_64 Hardened
+
 $ role
-Blue Team Operator
-
-$ system
-Arch Linux (Hardened)
+Blue Team | Defensive Security | Threat Hunter
 ```
 
 ---
 
-# 🚨 SIMULAÇÃO DE ATAQUE
-
-```diff
-- [RED TEAM] Scanning ports...
-- [RED TEAM] Attempting brute force on SSH...
-- [RED TEAM] Injecting malicious payload...
-```
-
----
-
-# 🛡️ BLUE TEAM RESPONSE
-
-```diff
-+ [BLUE TEAM] Detecting anomaly...
-+ [BLUE TEAM] Blocking suspicious IP...
-+ [BLUE TEAM] Updating firewall rules...
-+ [BLUE TEAM] Incident contained.
-```
-
----
-
-# 📡 SOC DASHBOARD
-
-```yaml
-Firewall: ACTIVE
-IDS: MONITORING
-Failed Logins: 5
-Blocked IPs: 23
-System Integrity: VERIFIED
-```
-
----
-
-# 🧠 SKILLS
+## 🔥 SKILLS
 
 ```css
 Threat Detection
 Incident Response
-Linux Hardening
 Log Analysis
-CTF Player
-Arch User btw.
+Network Monitoring
+Linux Hardening
+CTF Practice
 ```
 
 ---
 
-<!-- ======================= ANIMAÇÃO FINAL ======================= -->
+<!-- ========================= FINAL CINEMATIC ========================= -->
 
-<div align="center">
-
-<svg width="100%" height="100">
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-size="28" fill="#00ffcc" font-family="monospace">
-    ACCESS DENIED
-    <animate attributeName="fill" values="#00ffcc;#1793d1;#00ffcc" dur="2s" repeatCount="indefinite"/>
-  </text>
-</svg>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2200&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=Encrypting+Logs...;Closing+Session...;Arch+Linux+Secured.;Lucas_NotFound." />
+</p>
 
 ---
 
 ```bash
-$ echo "Lucas_NotFound"
-[ SESSION TERMINATED ]
-[ ARCH SECURED ]
+$ echo "Session Terminated"
+[ SOC OFFLINE ]
 ```
