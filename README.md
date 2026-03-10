@@ -36,7 +36,7 @@ Arch Linux x86_64 Hardened
 <!-- ================== RED TEAM ================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=2000&color=FF3131&center=true&vCenter=true&width=900&lines=Scanning+Ports...;Brute+Force+Attempt+Detected...;Privilege+Escalation+Attempt...;SYSTEM+STATUS:+CRITICAL." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=900&color=FF3131&center=true&vCenter=true&width=900&lines=Scanning+Ports...;Brute+Force+Attempt+Detected...;Privilege+Escalation+Attempt...;SYSTEM+STATUS:+CRITICAL." />
 </p>
 
 ---
