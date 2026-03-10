@@ -39,4 +39,4 @@
 
 "Para defender um sistema, você precisa entender como ele pode ser quebrado."
 
-<p align="center"> 🟢 STATUS: EM TREINAMENTO 🔓 TARGET: ELITE CYBER OPERATOR </p> ```
+<p align="center"> 🟢 STATUS: EM TREINAMENTO 🔓 TARGET: ELITE CYBER OPERATOR </p>
